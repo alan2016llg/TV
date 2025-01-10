@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-10 18:32:17,url
+2025-01-11 06:30:12,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -123,8 +123,8 @@ CCTV-15,http://119.163.199.98:9901/tsfile/live/0015_1.m3u8$订阅源
 翡翠台,https://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8$订阅源|1920x1080
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源|1920x1080
-凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234$订阅源|1920x1080
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源|1920x1080
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源|1920x1080
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$订阅源
 凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5$订阅源|1920x1080
@@ -133,7 +133,6 @@ CCTV-15,http://119.163.199.98:9901/tsfile/live/0015_1.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源
-香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源|1920x1080
 纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7$订阅源
 J2,http://r.jdshipin.com/ndGgS$订阅源
@@ -151,17 +150,16 @@ J2,http://r.jdshipin.com/Nr5jq$订阅源
 
 🎬电影频道,#genre#
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源|1920x1080
-CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源|IPv6
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源|1920x1080
+CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源|IPv6
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$订阅源|IPv6
-CHC动作电影,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$订阅源|IPv6
+CHC动作电影,http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$订阅源|IPv6
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$订阅源|1920x1080
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-淘电影,http://123.113.187.204:8000/udp/239.3.1.250:8001$订阅源
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源|IPv6
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8$订阅源|IPv6
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源|IPv6
