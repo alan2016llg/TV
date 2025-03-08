@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-08 06:27:06,url
+2025-03-08 18:26:38,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -121,10 +121,12 @@ CCTV-15,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源|1920x1080
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源
+凤凰中文,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092$组播源
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8$订阅源
+凤凰资讯,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086$组播源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
 凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5$订阅源|1920x1080
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源|1920x1080
@@ -137,8 +139,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源|1
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源|1920x1080
 J2,http://r.jdshipin.com/ndGgS$订阅源
 J2,http://r.jdshipin.com/Nr5jq$订阅源
-Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
-三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan$订阅源
+Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源|1920x1080
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源|1920x1080
 无线新闻,http://r.jdshipin.com/CkuBd$订阅源
@@ -160,7 +161,7 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&play
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$订阅源|IPv6
 CHC动作电影,http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$订阅源|IPv6
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$订阅源
+CHC动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111$订阅源
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源|IPv6
 黑莓电影,http://tv.2cf.x10.mx/2hl/3221225743/index.m3u8?ace$订阅源
