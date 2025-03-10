@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-10 06:27:35,url
+2025-03-10 18:29:03,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -117,8 +117,8 @@ CCTV-15,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u
 江苏卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$订阅源|1920x1080
 翡翠台,http://cdn5.1678520.xyz/live/?id=fct$订阅源|1920x1080
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源|1920x1080
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
@@ -139,7 +139,6 @@ J2,http://r.jdshipin.com/ndGgS$订阅源
 J2,http://r.jdshipin.com/Nr5jq$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源|1920x1080
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
-三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan$订阅源
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源|1920x1080
 无线新闻,http://r.jdshipin.com/CkuBd$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
@@ -152,18 +151,16 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源|1920x1080
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 
 🎬电影频道,#genre#
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源|1920x1080
+CHC家庭影院,http://api2.52tb.xyz/info?id=220&token=20230218jsyklh$订阅源|1920x1080
+CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源|1920x1080
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源|IPv6
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源|1920x1080
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
+CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$订阅源
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$订阅源|IPv6
 CHC动作电影,http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$订阅源|IPv6
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$订阅源
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源|IPv6
+NewTV动作电影,http://43.138.0.72:35455/yy/1382736823$订阅源
 黑莓电影,http://tv.2cf.x10.mx/2hl/3221225743/index.m3u8?ace$订阅源
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=yu&mode=1&$订阅源
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8$订阅源|IPv6
