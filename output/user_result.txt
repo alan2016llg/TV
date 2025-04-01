@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-01 18:31:47,url
+2025-04-02 06:30:36,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -116,7 +116,7 @@ CCTV-15,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8$订阅源|1920x1080
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
 凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5$订阅源|1920x1080
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源|1920x1080
@@ -142,9 +142,9 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 
 🎬电影频道,#genre#
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源|1920x1080
-CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源|IPv6
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源|1920x1080
+CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源|IPv6
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$订阅源|IPv6
