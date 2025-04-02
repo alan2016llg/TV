@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-04-02 18:31:40" tvg-logo="https://live.fanmingming.com/tv/2025-04-02 18:31:40.png" group-title="更新时间",2025-04-02 18:31:40
+#EXTINF:-1 tvg-name="2025-04-03 06:30:21" tvg-logo="https://live.fanmingming.com/tv/2025-04-03 06:30:21.png" group-title="更新时间",2025-04-03 06:30:21
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -206,9 +206,9 @@ http://61.138.128.226:19901/tsfile/live/0127_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://58.19.43.46:9901/tsfile/live/1038_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
-https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源|3840x2160
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源|1920x1080
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
@@ -222,9 +222,9 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
-http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源
+http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5$订阅源|1920x1080
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
-http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8?accountinfo=nVl%2FlxGDEXj8XkZipP8ISUVer4GPjw2QG0O4MRQi3g%2BEwuqkCa8s3JpukCy66ZXVAeAMYEBqNpar07yBf7G6quSAYws6gdT4%2FtVH%2Bc7R53mLahL3Oe72TRbm52ZvruhJFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20241026031902%2C4999656%2C36.156.32.23%2C20241026031902%2CHD-10000k-1080P-fhhongkong5s%2C1734275458503_D1%3A1F%3A8C%3ABC%3A76%3ACD%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268434_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhhongkong5s%2FHD-10000k-1080P-fhhongkong5s&icpid=88888888&from=5&popid=5&hms_devid=6448&prioritypopid=5$订阅源
+http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
 http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
@@ -246,7 +246,7 @@ http://r.jdshipin.com/ndGgS$订阅源
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="🌊港·澳·台",J2
 http://r.jdshipin.com/Nr5jq$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://live.fanmingming.com/tv/Viutv.png" group-title="🌊港·澳·台",Viutv
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源|1920x1080
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/三立台湾.png" group-title="🌊港·澳·台",三立台湾
 https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="🌊港·澳·台",三立新闻
